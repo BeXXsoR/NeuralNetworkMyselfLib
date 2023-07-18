@@ -1,0 +1,7 @@
+# Default ignored files
+bin
+obj
+zz*
+Properties
+*.csproj
+*.csproj.user
